@@ -2,7 +2,7 @@
 
 Over here we are developing PromG, a tool enabling you to perform multi-dimensional process analytics by exploiting a multi-layered Event Knowledge Graph.
 
-To learn more about this tool, we have prepared a demo video which you can find (here)[https://www.youtube.com/watch?v=EKXFqHtW3Xw&t=6s]. In this demo, we illustrate PromG on the BPIC'17 dataset.
+To learn more about this tool, we have prepared a demo video which you can find [here](https://www.youtube.com/watch?v=EKXFqHtW3Xw&t=6s). In this demo, we illustrate PromG on the BPIC'17 dataset.
 
 The repository contains the source code (PromG-core) which can be installed as a Python package using `pip install promg' and several example analyses.
 
